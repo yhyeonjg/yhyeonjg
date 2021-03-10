@@ -1,5 +1,5 @@
 ### Hello 👋 My name is YU HYEON JUNG.
-
+- 🌱 I’m currently learning Backend, VR, Deep Learning
 <!--
 **yhyeonjung/yhyeonjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
