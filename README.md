@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 |2020.6~2020.8|VeryBerry|Unity Game|EWHA King|
 |2020.10~2020.12|Preview|React&Firebase Web|OpenSWPlatform|
 |2020.12~2021.2|Armadillo Dash|Unity&Photon Game|EWHA King|
+|2020.12~2021.2|Mafia-Chatting|Ubuntu&MySQL|.|
+|2020.2~2021.4|VRUnity|GVR sdk for Unity|ICT|
 |...|...|...|...|
 
 ## 📲 Status
