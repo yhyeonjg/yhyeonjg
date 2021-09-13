@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## ❤️ Languages
+<!--
 <p>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
@@ -29,6 +30,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
     <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>  
 </p>
+-->
 
 ## 📖 Projects
 |Date|Contents|Type|Where|
