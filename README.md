@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 |2020.12~2021.2|Armadillo Dash|Unity&Photon Game|King|
 |2020.12~2021.2|Mafia-Chatting|Ubuntu&MySQL|.|
 |2020.2~2021.4|VRUnity|GVR sdk for Unity|ICT|
+|2021.3~2021.12|PIXIE|DeepLearning&App|Capstone|
 |...|...|...|...|
 
 ## 📲 Status
